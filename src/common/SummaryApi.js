@@ -1,6 +1,6 @@
 export const baseURL = 'https://serverdt2.onrender.com'
 
-const SummaryApi = {
+const SummaryApi ={
     register : {
         url : '/api/user/register',
         method : 'post'
